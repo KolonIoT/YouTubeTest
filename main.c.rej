@@ -1,0 +1,9 @@
+diff a/main.c b/main.c	(rejected hunks)
+@@ -2,5 +2,6 @@
+ 
+ void main (void)
+ {
++	int i = 0;
+ 	return(0);
+ }
+\ No newline at end of file
